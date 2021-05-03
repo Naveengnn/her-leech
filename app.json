@@ -102,15 +102,15 @@
     },
     "RCLONE_CONFIG": {
       "description": "Enter your copied text from rclone config. Compulsory for /gleech as well as /tleech command ",
-      "value": "[naxeex2]
+      "value": "[naxeex2] \n
 
-type = drive
+type = drive\n
 
-scope = drive
+scope = drive\n
 
-token = {"access_token":"ya29.a0AfH6SMDEQZxsBdaAYQZ28YJS1Gm-8ToTf8ybWpNnj8uoVN1GRkXQ6toPOTG6xPvWrF_gwkoYpIHU400Za8CmBYj-NluMpQzoMjPpZShWW2wV5C840cYgQYyOTE8M9ti8VT1_hb-rDWWiSf8FJRNR4W9VzeTm","token_type":"Bearer","refresh_token":"1//0gUHcZV81pMIsCgYIARAAGBASNwF-L9Ir4v4L9oMUJpxWB-_My0AAQ2YmhxPpXOJpyM5N3OvrYTcN9eillZE--Kv0qMZQzm_uA4s","expiry":"2021-04-15T14:20:00.586377357Z"}
+token = {"access_token":"ya29.a0AfH6SMDEQZxsBdaAYQZ28YJS1Gm-8ToTf8ybWpNnj8uoVN1GRkXQ6toPOTG6xPvWrF_gwkoYpIHU400Za8CmBYj-NluMpQzoMjPpZShWW2wV5C840cYgQYyOTE8M9ti8VT1_hb-rDWWiSf8FJRNR4W9VzeTm","token_type":"Bearer","refresh_token":"1//0gUHcZV81pMIsCgYIARAAGBASNwF-L9Ir4v4L9oMUJpxWB-_My0AAQ2YmhxPpXOJpyM5N3OvrYTcN9eillZE--Kv0qMZQzm_uA4s","expiry":"2021-04-15T14:20:00.586377357Z"}\n
 
-team_drive = 0AAoRhDPItQg8Uk9PVA
+team_drive = 0AAoRhDPItQg8Uk9PVA\n
 
 root_folder_id =
 
