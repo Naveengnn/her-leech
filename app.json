@@ -14,23 +14,23 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2722224"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "ed73235a355120eac379d077156e8b58"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "1668451761:AAHENK5d6ADwdIcJlAy5k2xfYGLemSmh9QA"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "value": "1233817369 -1001346856621"
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "1233817369"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
@@ -73,6 +73,7 @@
     },
     "INDEX_LINK": {
       "description": "Enter your index link:",
+      "value": "https://naxeex2.naveen1.workers.dev/0:/Kkk",
       "required": false
     },
     "GLEECH_COMMAND": {
@@ -101,6 +102,19 @@
     },
     "RCLONE_CONFIG": {
       "description": "Enter your copied text from rclone config. Compulsory for /gleech as well as /tleech command ",
+      "value": "[naxeex2]
+
+type = drive
+
+scope = drive
+
+token = {"access_token":"ya29.a0AfH6SMDEQZxsBdaAYQZ28YJS1Gm-8ToTf8ybWpNnj8uoVN1GRkXQ6toPOTG6xPvWrF_gwkoYpIHU400Za8CmBYj-NluMpQzoMjPpZShWW2wV5C840cYgQYyOTE8M9ti8VT1_hb-rDWWiSf8FJRNR4W9VzeTm","token_type":"Bearer","refresh_token":"1//0gUHcZV81pMIsCgYIARAAGBASNwF-L9Ir4v4L9oMUJpxWB-_My0AAQ2YmhxPpXOJpyM5N3OvrYTcN9eillZE--Kv0qMZQzm_uA4s","expiry":"2021-04-15T14:20:00.586377357Z"}
+
+team_drive = 0AAoRhDPItQg8Uk9PVA
+
+root_folder_id =
+
+",
       "required": false
     },
     "DESTINATION_FOLDER": {
